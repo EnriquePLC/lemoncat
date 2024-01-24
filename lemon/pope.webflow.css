@@ -1,0 +1,393 @@
+.hero {
+  background-image: url('../web/20230523081850im_/https_/buddhacoin.vip/images/hero-bg.html');
+  background-position: 50%;
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 40px;
+}
+
+.hero-bg-wrap {
+  text-align: center;
+}
+
+.circle {
+  position: absolute;
+}
+
+.hero-img {
+  max-width: 150%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: relative;
+}
+
+.f40 {
+  color: #000;
+  font-family: Montserrat, sans-serif;
+  font-size: 40px;
+  line-height: 1;
+}
+
+.hero-subheading {
+  color: #000;
+  margin-top: 51px;
+  margin-bottom: 30px;
+  font-family: Montserrat, sans-serif;
+  font-size: 30px;
+  line-height: 1;
+}
+
+.text {
+  color: #000;
+  font-family: Montserrat, sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.text.white {
+  color: #fff;
+}
+
+.red {
+  color: #ef3e25;
+  font-weight: 600;
+}
+
+.button {
+  min-width: 163px;
+  text-align: center;
+  background-color: #ef3e25;
+  border: 2px solid #ef3e25;
+  border-radius: 20px;
+  margin-right: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+}
+
+.button:hover {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.button.transparent {
+  color: #ef3e25;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.button.transparent:hover {
+  color: #fff;
+}
+
+.button.black {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+
+.button.black:hover {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.footer {
+  background-color: #ef3e25;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.footer-title {
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+  font-size: 17px;
+}
+
+.footer-nav {
+  color: #fff;
+  margin-bottom: 5px;
+  font-family: Montserrat, sans-serif;
+  display: block;
+}
+
+.social-media {
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  margin-bottom: 40px;
+  display: flex;
+}
+
+.audit {
+  text-align: center;
+  background-image: url('../web/20230523081850im_/https_/buddhacoin.vip/images/hero-bg.html');
+  background-position: 50%;
+  background-size: cover;
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+
+.sec-heading {
+  color: #000;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+}
+
+.cols {
+  justify-content: center;
+  align-items: stretch;
+  display: flex;
+}
+
+.audit_btn {
+  min-width: 227px;
+  text-align: center;
+  background-color: #ef3e25;
+  border: 2px solid #ef3e25;
+  border-radius: 50px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+}
+
+.audit_btn:hover {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.audit_btn.transparent {
+  color: #ef3e25;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.audit_btn.transparent:hover {
+  color: #fff;
+}
+
+.audit_btn.black {
+  background-color: #000;
+  border-color: #000;
+}
+
+.audit_btn.black:hover {
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.techrate {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.certik {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.f12 {
+  color: #000;
+  font-family: Montserrat, sans-serif;
+  font-size: 12px;
+}
+
+.about {
+  background-image: url('../web/20230523081850im_/https_/buddhacoin.vip/images/hero-bg.html');
+  background-position: 50%;
+  background-size: cover;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.black {
+  color: #000;
+}
+
+.pancakeswap {
+  margin-bottom: 10px;
+}
+
+.tokenomics {
+  padding-top: 52px;
+  padding-bottom: 40px;
+}
+
+.token-box {
+  text-align: center;
+  background-color: #f8c300;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 7%;
+}
+
+.token-icon {
+  width: 150px;
+  height: 150px;
+  background-color: #ffe999;
+  border-radius: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto 24px;
+  display: flex;
+}
+
+.token-title {
+  color: #ef3e25;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.token-text {
+  color: #000;
+  font-family: Montserrat, sans-serif;
+  font-size: 12px;
+}
+
+.token-btm-heading {
+  color: #000;
+  text-align: center;
+  background-color: #f2f2f2;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+}
+
+.roadmap {
+  padding-top: 52px;
+  padding-bottom: 40px;
+}
+
+.roadmap-tittle {
+  color: #000;
+  margin-top: 0;
+  font-family: Montserrat, sans-serif;
+  font-size: 21px;
+}
+
+.list {
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  color: #000;
+  align-items: flex-start;
+  margin-bottom: 5px;
+  font-family: Montserrat, sans-serif;
+  display: flex;
+}
+
+.normal {
+  font-style: italic;
+  font-weight: 400;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0);
+  position: fixed;
+  top: 0%;
+  bottom: auto;
+  left: 0%;
+  right: 0%;
+}
+
+.nav-link {
+  color: #000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Montserrat, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+.nav-container {
+  align-items: center;
+  display: flex;
+}
+
+.brand {
+  flex: 1;
+}
+
+.heading {
+  font-family: Oswald, sans-serif;
+  font-size: 80px;
+}
+
+.image {
+  max-width: 150%;
+  margin-left: -88px;
+  margin-right: 0;
+  padding-left: 0;
+}
+
+@media screen and (max-width: 991px) {
+  .button {
+    margin-bottom: 10px;
+  }
+
+  .menu-button {
+    color: #a18888;
+  }
+
+  .menu-button.w--open {
+    color: #000;
+    background-color: rgba(0, 0, 0, 0);
+  }
+
+  .nav-menu {
+    background-color: #fff;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cols {
+    flex-wrap: wrap;
+  }
+
+  .techrate, .certik {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .menu-button {
+    color: #000;
+  }
+
+  .audits-img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
+
+/*
+     FILE ARCHIVED ON 08:18:50 May 23, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:01:10 Jan 23, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 772.951
+  exclusion.robots: 0.08
+  exclusion.robots.policy: 0.07
+  cdx.remote: 0.084
+  esindex: 0.012
+  LoadShardBlock: 742.132 (3)
+  PetaboxLoader3.resolve: 671.573 (3)
+  PetaboxLoader3.datanode: 146.759 (5)
+  load_resource: 130.467
+  loaddict: 14.883
+*/
